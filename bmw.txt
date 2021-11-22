@@ -1,6 +1,4 @@
 x1
 x3
 x5
-3 series
-5 series
-7 series
+
